@@ -101,17 +101,20 @@ http {
 ``` kill -QUIT [PPID]  ```  
 
 ## PC
+https://github.com/FengDushuo/Gym-Club-Web/tree/main/media/PC.gif
 ![https://github.com/FengDushuo/Gym-Club-Web/tree/main/media/PC.gif](https://github.com/FengDushuo/Gym-Club-Web/tree/main/media/PC.gif)  
 
 ## phone
+https://github.com/FengDushuo/Gym-Club-Web/tree/main/media/PC.gif
 ![https://github.com/FengDushuo/Gym-Club-Web/tree/main/media/phone.gif](https://github.com/FengDushuo/Gym-Club-Web/tree/main/media/phone.gif)
 
 ## Pad
+https://github.com/FengDushuo/Gym-Club-Web/tree/main/media/PC.gif
 ![https://github.com/FengDushuo/Gym-Club-Web/tree/main/media/Pad.gif](https://github.com/FengDushuo/Gym-Club-Web/tree/main/media/Pad.gif)
 
 
 
 ### Some Notes
- - 这个项目基于开源项目 https://github.com/yanym/Cornell-Club .  
+ - 参考开源项目 https://github.com/yanym/Cornell-Club .  
  - 学习使用，非商用.  
 
