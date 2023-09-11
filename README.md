@@ -101,13 +101,13 @@ http {
 ``` kill -QUIT [PPID]  ```  
 
 ## PC
-![img](https://github.com/FengDushuo/Gym-Club-Web/tree/main/media/PC.gif)  
+![https://github.com/FengDushuo/Gym-Club-Web/tree/main/media/PC.gif](https://github.com/FengDushuo/Gym-Club-Web/tree/main/media/PC.gif)  
 
 ## phone
-![img](https://github.com/FengDushuo/Gym-Club-Web/tree/main/media/phone.gif)
+![https://github.com/FengDushuo/Gym-Club-Web/tree/main/media/phone.gif](https://github.com/FengDushuo/Gym-Club-Web/tree/main/media/phone.gif)
 
 ## Pad
-![img](https://github.com/FengDushuo/Gym-Club-Web/tree/main/media/Pad.gif)
+![https://github.com/FengDushuo/Gym-Club-Web/tree/main/media/Pad.gif](https://github.com/FengDushuo/Gym-Club-Web/tree/main/media/Pad.gif)
 
 
 
