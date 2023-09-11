@@ -101,13 +101,13 @@ http {
 ``` kill -QUIT [PPID]  ```  
 
 ## PC
-![img](https://github.com/yanym/Cornell-Club/blob/master/public/images/Demo/PC.gif)  
+![img](https://github.com/FengDushuo/Gym-Club-Web/tree/main/media/PC.gif)  
 
 ## phone
-![img](https://github.com/yanym/Cornell-Club/blob/master/public/images/Demo/IphoneX.gif)
+![img](https://github.com/FengDushuo/Gym-Club-Web/tree/main/media/phone.gif)
 
 ## Pad
-![img](https://github.com/yanym/Cornell-Club/blob/master/public/images/Demo/Ipad.gif)
+![img](https://github.com/FengDushuo/Gym-Club-Web/tree/main/media/Pad.gif)
 
 
 
